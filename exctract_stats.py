@@ -13,7 +13,7 @@ def parcourir(src):
         mini=[]
         maxi=[]
         meani_=[]
-        std_=[]#pour calculer le std le premier 
+        std_=[]#pour calculer le std le premier h
         convergence=[]
         
         liste_fichier_src=os.listdir(src)
